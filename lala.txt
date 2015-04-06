@@ -5,4 +5,3 @@ master2
 branch22
 branch23
 b2 sq 2
-lala
